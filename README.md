@@ -1,1 +1,12 @@
 # WordBeater
+Simple speed typing app built with JavaScript.
+
+# Use
+- Open with Live Server.
+- Run index.html in a browser.
+# App Info
+
+# Version
+1.00
+# Author
+Penko Gadzhev
