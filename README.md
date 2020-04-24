@@ -7,6 +7,7 @@ Simple speed typing app built with JavaScript.
 # App Info
 
 # Version
+In Progress - 90%
 1.00
 # Author
 Penko Gadzhev
