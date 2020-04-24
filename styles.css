@@ -1,0 +1,100 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(53, 58, 64);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  padding: 5px;
+  background: rgb(108, 117, 126);
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+
+header #difficulty {
+  font-size: 20px;
+}
+
+.lead {
+  margin: 40px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.lead span {
+  font-size: 30px;
+  color: green;
+}
+
+#current-word {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+}
+
+#input {
+  margin-left: 18cm;
+  font-size: 40px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+#message {
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.time-score {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.time-score h3 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+#time {
+  width: 60%;
+  display: inline-block;
+}
+#score {
+  width: 40%;
+  display: inline-block;
+}
+
+.instructions {
+  /* border: 1px solid rgb(108, 117,126); */
+  margin: 0 auto;
+  padding: 2px;
+  border-radius: 10px;
+  width: 30%;
+  background: rgb(108, 117, 126);
+}
+
+.instructions h4 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.instructions p {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
