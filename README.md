@@ -1,5 +1,5 @@
 # WordBeater
-Simple speed typing app built with JavaScript.
+Simple speed typing app built with JavaScript. (html , bootstrap , js)
 
 # Use
 - Open with Live Server.
