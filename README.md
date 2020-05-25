@@ -1,6 +1,8 @@
 # WordBeater
 Simple speed typing app built with JavaScript. (html , bootstrap , js)
 
+![wordbeater](./wordbeater.jpg)
+
 # Use
 - Open with Live Server.
 - Run index.html in a browser.
